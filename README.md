@@ -1,10 +1,13 @@
 # Data Analysis of Magic the Gathering Cards.
 This will contain the dataset of the standard cards (last year's standard) that could have been played in the format.
-Please make sure that you have the most current version of python and include the following:
+The following libraries were used:
 ```
 pip install pandas
 pip install jupyterlab
 pip install matplotlib
+pip install numpy
+pip install scipy.stats
+pip install scikit_posthoc
 ```
 
 The information that you will find in the magic jupyter notebook will be about each color's power distribution.
