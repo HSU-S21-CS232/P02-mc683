@@ -1,0 +1,14 @@
+I found this project to be especially difficult. The battle was trying to get the large amount of data into a nice looking set of graphs and identifying significance.
+On top of not knowing how to properly work with the libraries I was using I still don't feel like I'm very competent with Python and that hurdle was still hard to get 
+around. Jupyter was pretty interesting to work with and overall I did enjoy this project and the results that I was able to place into the graphs. The one part of this project
+that made me want to give up the most was the regression part. Although I asked many questions about it I still felt like I didn't understand how I was supposed to format the
+data in a way that allowed me to use the regression thing on it. My closest attempt was that I was able to get a chart of all the creatures in columns/row headers, but that
+was just wrong altogether. That can also segway into how the significance part of this project was the hardest to understand. When I try to think back to my stats class
+years and years ago the whole idea of this was difficult to comprehend.
+
+If I had to give any advice to future students or even a past Mikey, I would say do more research on how to work with these libraries. Find a video that goes over how to do it
+and maybe pick something similar to what they are doing that way you can follow along and probably understand what you are doing a little better. I feel like I may
+have been a little foolish in going with the first thought that came up in my mind without really grasping how difficult this was going to be. If I had to make a suggestion
+for how to improve this assignment in the future I would say that maybe have specific examples for each part of this assignment. Maybe an example of what it is going
+to look like. I know we worked together on this in class, but outside of class I felt kind of lost and when I would search for the thing I was looking for I would end
+up with an endless amount of information that usually didn't hit the mark. I probably just need to understand how to ask my questions.
